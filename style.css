@@ -17,7 +17,7 @@
 .logo{
     height:36px;
     width:100%;
-    background-image: url("images.png");
+    background-image: url("Amazon-Logo-White-PNG-Image.png");
     background-size: cover;
 }
 .nav_logo{
@@ -233,9 +233,11 @@
 }
 .f-icon{
     height:100%;
-    width:143px;
-    background-image: url("amazon-logo-amazon-icon-transparent-free-png.webp");
-    background-size: cover;
+    width:150px;
+    background-image: url("Amazon-Logo-White-PNG-Image.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 18px;
 }
 .fbox{
     width: 240px;
